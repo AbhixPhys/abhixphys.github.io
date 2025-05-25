@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "abhix.png"
   name             : "Abhishek Singh"
-  pronouns         : # example: "she/her"  
-  bio              : "Wandering (somewhat aimlessly) through a tangle of ideas—physics, biology, algorithms—without staying long enough to unpack my bags."
+  pronouns         : "he/him"  
+  bio              : "Physics Undergraduate"
   location         : "Bhubaneshwar, India"
   employer         : "National Institute of Science Education and Research (NISER)"
   uri              : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : "im_s_abhishek"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "abhix-phys"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
