@@ -27,7 +27,8 @@ author:
   pronouns         : "he/him"  
   bio              : "Physics Undergraduate"
   location         : "Bhubaneshwar, India"
-  employer         : "[NISER](https://www.niser.ac.in/)"
+  #employer         : "[NISER](https://www.niser.ac.in/)"
+  employer         : https://www.niser.ac.in/ "NISER"
   uri              : # URL
   email            : "abhishek.singh21@niser.ac.in" 
 
