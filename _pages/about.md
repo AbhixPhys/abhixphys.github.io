@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Home Page"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ Welcome.
 
 This is a personal patch of low temperature but **high configurational entropy** — seemingly stable, but wildly fluctuating in thought-space.
 
-I’m an undergrad learning physics, some theoretical CS and occasional dabbling into theoretical biology, or anything else that looks like it might someday self-organize into meaning. This site is a semi-structured attempt at collecting the trails. 
+I’m an undergrad wandering (somewhat aimlessly) through a tangle of ideas—physics, biology, algorithms—without staying long enough to unpack my bags.I like to occasionally dabble into anything else that looks like it might someday self-organize into meaning. This site is a semi-structured attempt at collecting these trails. 
 
 ------
 
