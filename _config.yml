@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About"
+title                    : "Abhishek"
 title_separator          : "-"
 name                     : &name "Abhishek Singh"
 description              : &description "Personal webiste to record some of the events worth sharing."

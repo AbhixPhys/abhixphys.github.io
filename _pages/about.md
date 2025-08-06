@@ -9,10 +9,11 @@ redirect_from:
 >*"The pleasure of finding things out."* — Richard Feynman
 
 Welcome.
-
+{% comment %}
 This is a personal patch of low temperature but **high configurational entropy** — seemingly stable, but wildly fluctuating in thought-space.
+{% endcomment %}
 
-I’m an undergrad wandering (somewhat aimlessly) through a tangle of ideas—physics, biology, algorithms—without staying long enough to unpack my bags.I like to occasionally dabble into anything else that looks like it might someday self-organize into meaning. This site is a semi-structured attempt at collecting these trails. 
+I’m an undergrad wandering (somewhat aimlessly) through a tangle of ideas in — physics, biology, algorithms — without staying long enough to unpack my bags. I like to occasionally dabble into anything else that looks like it might someday self-organize into meaning. This site is a semi-structured attempt at collecting these trails. 
 
 ------
 
